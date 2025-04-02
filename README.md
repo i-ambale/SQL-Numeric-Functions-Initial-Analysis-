@@ -32,7 +32,7 @@ Installation & Setup
 
 Clone this repository:
 
-git clone https://github.com/i-ambale/Basic-SQL-Queries-in-a-Notebook-1-Exercise-.git
+git clone https://github.com/i-ambale/SQL-Numeric-Functions-Initial-Analysis-/tree/master
 
 Navigate into the project directory:
 
